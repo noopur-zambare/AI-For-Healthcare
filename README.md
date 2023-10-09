@@ -15,3 +15,8 @@ We conducted clinical research in this project to analyse and categorise mandibu
     - Liquid Neural Networks (LNN): Achieved an accuracy of %.
     - Long Short-Term Memory (LSTM): Achieved an accuracy of %.
     - k-Nearest Neighbors (KNN): Achieved an accuracy of %.
+
+## Conclusion
+In our study, we conducted a thorough examination of three different machine learning algorithms utilised for the purpose of classifying jaw movements using trajectory data. Our findings indicate that the Liquid Neural Network (LNN) algorithm demonstrated the highest performance, followed by the Long Short-Term Memory (LSTM) algorithm, and finally the K-Nearest Neighbours (KNN) algorithm.
+
+The Liquid Neural Network (LNN) exhibited remarkable precision and efficacy in the classification of jaw motions, thereby highlighting its capacity to capture complex patterns and temporal relationships inherent in trajectory data. The success of this algorithm underscores its potential for accurate clinical assessments and the examination of dietary patterns, placing it as a promising option for applications that use sequential data.
