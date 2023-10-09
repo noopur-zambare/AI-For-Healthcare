@@ -16,6 +16,10 @@ We conducted clinical research in this project to analyse and categorise mandibu
     - Liquid Neural Networks (LNN): Achieved an accuracy of %.
     - Long Short-Term Memory (LSTM): Achieved an accuracy of %.
     - k-Nearest Neighbors (KNN): Achieved an accuracy of %.
+ 
+      
+The measurement of the chewing movement is conducted by the utilisation of a motion processing unit 6050 motion sensor. A motion sensor is affixed to the surgical mask in the shape of a band. The individual will don the facial covering, and their actions will be captured and afterwards processed by a computer algorithm with the ability to autonomously discern the articulation of the mandible during the act of mastication. The implementation also incorporates the utilisation of a microcontroller and a Bluetooth module. The device exhibited consistent performance for a duration exceeding 18 hours. An Android smartphone was utilised for the purposes of data gathering, annotation, and visualisation.
+
 
 To mitigate the constraint of a restricted sample dataset, we implemented Generative Adversarial Networks (GANs) as a method of data augmentation. Generative Adversarial
 Networks (GANs) represent a category of machine learning models specifically devised to produce synthetic data that exhibits a high degree of similarity to the underlying distribution of the original dataset. Through the utilisation of Generative Adversarial Networks (GANs), we successfully augmented the effective magnitude of our dataset by producing supplementary data instances that exhibit statistical coherence with the original samples. The utilisation of this methodology not only bolstered the resilience of our model but also facilitated the exploration of a broader spectrum of data patterns and variations, ultimately enhancing the efficacy and adaptability of our machine-learning system.
