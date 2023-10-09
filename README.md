@@ -1,4 +1,5 @@
 # AI-For-Healthcare
+### Proposed a framework for harnessing ML to create Wearable Medical Technology
 
 AI has emerged as a revolutionary force in healthcare, revolutionising the business in a variety of ways. Its incorporation into numerous aspects of healthcare has the potential to improve patient outcomes, streamline operations, and increase overall care quality.
 
