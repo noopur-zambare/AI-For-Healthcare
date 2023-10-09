@@ -3,6 +3,10 @@
 
 AI has emerged as a revolutionary force in healthcare, revolutionising the business in a variety of ways. Its incorporation into numerous aspects of healthcare has the potential to improve patient outcomes, streamline operations, and increase overall care quality.
 
+Monitoring and quantifying jaw movements is critical in clinical diagnosis and the evaluation of temporomandibular function and masticatory muscle activity. Nonetheless, present approaches for examining jaw movement sometimes rely on expensive tools, limiting their availability in a variety of geographical areas. This paper describes a novel and cost-effective equipment for measuring the kinematics involved with jaw opening/closing, protrusion, and laterotrusion. The goal of this study is to address the need for low-cost alternatives in clinical evaluations. The suggested device uses an MPU-6050 sensor and a program based on the Arduino Uno platform to precisely collect and recreate the path travelled by a reflective marker affixed to the jaw. The trajectory data is subsequently employed to classify jaw movements into discrete categories. Three machine learning techniques, namely Liquid Neural Network (LNN), K-Nearest Neighbors (KNN), and Long Short-Term Memory (LSTM) are applied for classification applications.
+
+
+
 ## Project Overview
 
 We conducted clinical research in this project to analyse and categorise mandibular (jaw) motions during the act of eating. The major goal was to use machine learning approaches to increase the accuracy of these categorizations, which could have consequences for a variety of healthcare applications such as dietary assessments, speech therapy, and oral health monitoring.
