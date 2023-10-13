@@ -17,9 +17,9 @@ We conducted clinical research in this project to analyse and categorise mandibu
 - **Data Enhancement**: We ran into data constraints, but we overcame them by using Generative Adversarial Networks (GANs) to expand our dataset. We were able to improve the resilience and performance of our models as a result of this.
 
 - **Machine Learning Models**: We experimented with various ML algorithms to categorize mandibular motions during eating. Our results were as follows:
-    - Liquid Neural Networks (LNN): Achieved an accuracy of %.
-    - Long Short-Term Memory (LSTM): Achieved an accuracy of %.
-    - k-Nearest Neighbors (KNN): Achieved an accuracy of %.
+    - Liquid Neural Networks (LNN): Achieved an accuracy of 80%.
+    - Long Short-Term Memory (LSTM): Achieved an accuracy of 65%.
+    - k-Nearest Neighbors (KNN): Achieved an accuracy of 59%.
  
       
 The measurement of the chewing movement is conducted by the utilisation of a motion processing unit 6050 motion sensor. A motion sensor is affixed to the surgical mask in the shape of a band. The individual will don the facial covering, and their actions will be captured and afterwards processed by a computer algorithm with the ability to autonomously discern the articulation of the mandible during the act of mastication. The implementation also incorporates the utilisation of a microcontroller and a Bluetooth module. The device exhibited consistent performance for a duration exceeding 18 hours. An Android smartphone was utilised for the purposes of data gathering, annotation, and visualisation.
